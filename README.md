@@ -7,7 +7,7 @@ This can be easily replicated on a Mac *without* resorting to "hot corners" or a
 
 All it takes is two things:
 
-1. [FastScripts] (which is free for up to 10 keyboard shortcuts)
+1. [FastScripts] which is free for up to 10 keyboard shortcuts
 2. An AppleScript called [LockScreen.scpt]
 
 The AppleScript executes one line:
